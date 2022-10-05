@@ -1,0 +1,4 @@
+C:/Users/user/intro_dev/programming-intro-lab-13-Javiisa/scripts/00-createBigCitiesDataBase.sql
+C:/Users/user/intro_dev/programming-intro-lab-13-Javiisa/scripts/01-createCitiesTable.sql
+C:/Users/user/intro_dev/programming-intro-lab-13-Javiisa/data/ciudades.csv
+C:/Users/user/intro_dev/programming-intro-lab-13-Javiisa/02-seedCitiesTable.sql
