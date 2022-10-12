@@ -2,6 +2,7 @@
 
 /*
   Also a comment
+  whith many lines
 */
 
 -- WARNING: this is for study porpuse only. Never drop databases in production
